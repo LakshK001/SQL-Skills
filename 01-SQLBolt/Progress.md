@@ -1,7 +1,7 @@
 # 📚 Learning Progress
 
-**Overall Progress :** 0 / 18 lessons completed  
-**Current Lesson :** Lesson 1  
+**Overall Progress :** 1 / 18 lessons completed  
+**Current Lesson :** Lesson 2  
 **Last Updated :** 2026-08-08  
 
 ## Legend
@@ -15,7 +15,7 @@
 
 |   Lesson  | Solution | Notes | Status |
 | :-------: | :----: | :------: | ------------ |
-|  Lesson 1 |    ⬜   |     ⬜    |  Not Started  |
+|  Lesson 1 |    ✅   |     ✅    |  Completed  |
 |  Lesson 2 |    ⬜   |     ⬜    |  Not Started  |
 |  Lesson 3 |    ⬜   |     ⬜    |  Not Started  |
 |  Lesson 4 |    ⬜   |     ⬜    |  Not Started  |
