@@ -1,8 +1,8 @@
 # 📚 Learning Progress
 
-**Overall Progress :** 5 / 18 lessons completed  
-**Current Lesson :** Lesson 6  
-**Last Updated :** 2026-08-09  
+**Overall Progress :** 6 / 18 lessons completed  
+**Current Lesson :** Lesson 7  
+**Last Updated :** 2026-08-10  
 
 ## Legend
 
@@ -20,7 +20,7 @@
 |  Lesson 3 |    ✅   |     ✅    |  Completed  |
 |  Lesson 4 |    ✅   |     ✅    |  Completed  |
 |  Lesson 5 |    ✅   |     ✅    |  Completed  |
-|  Lesson 6 |    ⬜   |     ⬜    |  Not Started  |
+|  Lesson 6 |    ✅   |     ✅    |  Completed  |
 |  Lesson 7 |    ⬜   |     ⬜    |  Not Started  |
 |  Lesson 8 |    ⬜   |     ⬜    |  Not Started  |
 |  Lesson 9 |    ⬜   |     ⬜    |  Not Started  |
